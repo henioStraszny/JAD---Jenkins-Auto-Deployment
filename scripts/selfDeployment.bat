@@ -1,2 +1,2 @@
-@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://github.com/henioStraszny/JAD---Jenkins-Auto-Deployment/blob/master/scripts/selfDeployment.ps1'))"
+@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/henioStraszny/JAD---Jenkins-Auto-Deployment/master/scripts/selfDeployment.ps1'))"
 @powershell -NoProfile -ExecutionPolicy Bypass -Command ". .\selfDeployment.ps1"
