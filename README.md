@@ -1,7 +1,7 @@
 # JAD---Jenkins-Auto-Deployment  
 _Jenkins Auto Deployment Scripts_
     
-**In Orer to proceed with autodeployment on MS Windows do the following:**
+**In order to proceed with autodeployment on MS Windows do the following:**  
  _(Assuming there is no UAC)_  
      
 1. Press:  
