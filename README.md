@@ -14,5 +14,8 @@ _Jenkins Auto Deployment Scripts_
 ```Batchfile  
 cmd /c @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/henioStraszny/JAD---Jenkins-Auto-Deployment/master/scripts/selfDeployment.ps1'))"  
 ```
+```Batchfile  
+cmd /c @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/henioStraszny/JAD---Jenkins-Auto-Deployment/master/scripts/Tools.ps1'))"  
+```
   
 _(cmd /c closes console after finishing /k leaves it open.)_  
