@@ -1,7 +1,11 @@
 # JAD---Jenkins-Auto-Deployment  
 _Jenkins Auto Deployment Scripts_
     
+<<<<<<< HEAD
 **In order to proceed with autodeployment on MS Windows do the following:**  
+=======
+**In orer to proceed with autodeployment on MS Windows do the following:**  
+>>>>>>> 972a1bf15e65f82b3fb6b3d3d107696481a8f30f
  _(Assuming there is no UAC)_  
      
 1. Press:  
